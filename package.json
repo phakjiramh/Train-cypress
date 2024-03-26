@@ -1,0 +1,17 @@
+{
+  "name": "train-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.3",
+    "cypress": "^12.17.2",
+    "typescript": "^5.1.6"
+  }
+}
